@@ -4,3 +4,6 @@
 
 Сам же робот выглядит в общем виде:
 ![image](https://github.com/Template58/ArduinoBOT/assets/173082842/31b8d0cc-e69f-4900-b364-9ae77ef18670)
+
+Так же esp32 подключается бутербродомк плате с USB-C
+А так же пины подключаются UOR-tx UOT-rx gnd-gnd 5v-vcc

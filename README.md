@@ -9,3 +9,7 @@ And the pins are connected UOR-tx OUT-rx gnd-gnd 5v-vcc
 ![image](https://github.com/Template58/ArduinoBOT/assets/173082842/16de0475-642c-4221-b09a-534f32af6370)
 
 ![image](https://github.com/Template58/ArduinoBOT/assets/173082842/3eb6039a-430d-4faa-8058-55122607c9a3)
+
+sheme for esp32cam
+
+![image](https://github.com/Template58/ArduinoBOT/assets/173082842/5300b7cf-22c8-467b-bec5-53d6f98f813c)

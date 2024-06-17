@@ -5,3 +5,5 @@ Unidirectional wheels are used as wheels:
 
 The ESP 32 is also connected with a sandwich board with USB-C
 And the pins are connected UOR-tx OUT-rx gnd-gnd 5v-vcc
+
+![image](https://github.com/Template58/ArduinoBOT/assets/173082842/16de0475-642c-4221-b09a-534f32af6370)

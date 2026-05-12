@@ -15,6 +15,8 @@ sheme for esp32cam
 ![image](https://github.com/Template58/ArduinoBOT/assets/173082842/5300b7cf-22c8-467b-bec5-53d6f98f813c)
  
 Example for arduino servo
+
+
 #include "SoftServo.h"
 
 SoftServo myservo;
